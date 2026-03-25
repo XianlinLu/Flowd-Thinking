@@ -1,3 +1,3 @@
 # Flowd Landing Site
 
-https://ariaxxxi.github.io/Flowd-Thinking/
+[https://xianlinlu.github.io/Flowd-Thinking/](https://xianlinlu.github.io/Flowd-Thinking/)
