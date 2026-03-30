@@ -1,7 +1,7 @@
 # Flowd Diagram Design System
 
-Source of truth: Figma file `80HD`, node `1154:1799`
-Reference: https://www.figma.com/design/UfVYVYDJetggVnGNcKt9zx/80HD?node-id=1154-1799&t=r8n8YDXbQY5tgW9m-11
+Source of truth: Figma file `Flowd`, node `1154:1799`
+Reference: https://www.figma.com/design/yEfNpue0S6GE9EWur3Graj/Flowd?node-id=0-1&t=wRTfJUgMKMCYPdIq-1
 
 This spec is the house style for every diagram used in `flowd-case-study.html`. Future diagram SVGs should preserve this language unless a section explicitly needs a different visual system.
 
